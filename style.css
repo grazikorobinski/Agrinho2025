@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #33c160;
+    background-color: #2be867;
     color: rgb(96, 92, 40);
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@
 }
 
 .escola{
-    background-image: linear-gradient(#64c095,#2c744a);
+    background-image: linear-gradient(#ebe868,#2c744a);
     color:white;
     display: flex;
     justify-content: center;
@@ -60,7 +60,7 @@
     padding: 16px 0;
 }
 .rodape{
-    background-color: black;
+    background-color: rgb(8, 119, 30);
     text-align: center;
 }
 
