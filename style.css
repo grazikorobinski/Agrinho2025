@@ -30,7 +30,7 @@
     background-image: linear-gradient(#ebe868,#2c744a);
     color:white;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     padding: 28px 0;
 }
